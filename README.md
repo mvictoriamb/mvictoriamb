@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mvictoriamb/mvictoriamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy **María Victoria Maldonado Bao**
+### 🛡️ **Ciberseguridad & IA** | 🎻 **Música profesional** | 🌏 **Trilingüe ES/EN/CN**
 
-Here are some ideas to get you started:
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=flat&logo=google)](https://coursera.org)
+[![2º Google Init.g()](https://img.shields.io/badge/2º%20Google%20Init.g%20Prompt%20Injection-gold?style=flat&logo=trophy)](https://google.com)
+[![NVIDIA Recommended](https://img.shields.io/badge/NVIDIA%20University%20Ambassador%20Recommended-teal?style=flat&logo=nvidia)](https://nvidia.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎯 Aspirando MSc Cyber Security & AI @ Radboud University Nijmegen**
+
+</div>
+
+## 🚀 **Sobre mí**
