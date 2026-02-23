@@ -12,3 +12,45 @@
 </div>
 
 ## 🚀 **Sobre mí**
+Estudiante 2º Grado Ciberseguridad e IA (UMA Málaga) →Graduación 2028
+
+Español nativo + Inglés C1 + Chino mandarín
+
+Violinista/pianista profesional (Conservatorio)
+
+Voluntaria: Cruz Roja, INCIBE Cibercooperante, Cibervoluntarios
+
+
+## 🛡️ **Proyectos Destacados**
+
+### 🔒 **GNS3 Enterprise Security Labs** ⭐
+**4 labs completos** | **20+ ataques simulados** | **Snort IDS + pfSense + OpenVPN**
+- SYN Flood → iptables rate limiting
+- ARP Spoofing → Snort detección real-time  
+- Port-Knocking 
+- Nmap stealth → Firewall hardening
+
+[![GNS3 Labs](https://github.com/mvictoriamb/gns3-security-labs-maria/blob/main/images/topology.png)](original-labs/)
+
+### 🧠 **Prompt Injection Detector** (en proceso)
+**ML model** bloquea jailbreaks en LLMs | Basado en 2º puesto Google Init.g()
+
+### 📊 **Mental Health Hackathon 2025**
+**Lead Data Analyst** | ML Python | Predicción estancias hospitalarias
+
+## 🏆 **Experiencia & Reconocimientos**
+
+✅ NVIDIA University Ambassador (Catedrático UMA):
+"Una de las estudiantes más excepcionales en 10 años"
+✅ Google Cybersecurity Certificate (Coursera 2025)
+✅ 6 Hackatones + CTFs (WomenHack incluido)
+✅ Charlas hacking ético desde los 17 años → Alumnos de FP 
+✅ 100h formación oratoria y emo-training → Charla TCA (15 años, 100+ personas)
+
+Violín 🎻 | Piano 🎹 | Composición (mención conservatorio)
+→ Disciplina + precisión + comunicación emocional
+
+✉️ mvictoriamb0425@gmail.com
+💼 [LinkedIn]([(https://www.linkedin.com/in/maria-victoria-maldonado-bao/])
+🌐 Portfolio en construcción
+
