@@ -30,13 +30,18 @@ Voluntaria: Cruz Roja, INCIBE Cibercooperante, Cibervoluntarios
 - Port-Knocking 
 - Nmap stealth → Firewall hardening
 
-[![GNS3 Labs](https://github.com/mvictoriamb/gns3-security-labs-mvmb/)]
+[![GNS3 Labs](https://github-readme-stats.vercel.app/api/pin/?username=mvictoriamb&repo=gns3-security-labs-mvmb&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=FF6B6B)](https://github.com/mvictoriamb/gns3-security-labs-mvmb)
 
-### 🧠 **Prompt Injection Detector** (en proceso)
-**ML model** bloquea jailbreaks en LLMs | Basado en 2º puesto Google Init.g()
 
-### 📊 **Mental Health Hackathon 2025**
-**Lead Data Analyst** | ML Python | Predicción estancias hospitalarias
+### 🤖 **Analizador Datos Estudiantes** ⭐
+**Streamlit + PandasAI + Gemini** | **Chat con CSV** | **Empleabilidad universitarios**
+- 💬 `"¿Qué carrera tiene más empleo?"`
+- 📈 Gráficos Plotly automáticos  
+- 🔍 Dataset de Kaggle 
+- 🧠 **No necesitas SQL/Pandas**
+
+[![Data Analyzer](https://img.shields.io/badge/🤖%20Data%20Analyzer-AI%20Chat%20%7C%20Streamlit-FF6B6B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mvictoriamb/analizador_datos_inteligente)
+
 
 ## 🏆 **Experiencia & Reconocimientos**
 
