@@ -30,7 +30,7 @@ Voluntaria: Cruz Roja, INCIBE Cibercooperante, Cibervoluntarios
 - Port-Knocking 
 - Nmap stealth → Firewall hardening
 
-[![GNS3 Labs](https://github.com/mvictoriamb/gns3-security-labs-mvmb/blob/main/images/topology.png)](original-labs/)
+[![GNS3 Labs](https://github.com/mvictoriamb/gns3-security-labs-mvmb/)
 
 ### 🧠 **Prompt Injection Detector** (en proceso)
 **ML model** bloquea jailbreaks en LLMs | Basado en 2º puesto Google Init.g()
