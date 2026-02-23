@@ -51,6 +51,6 @@ Violín 🎻 | Piano 🎹 | Composición (mención conservatorio)
 → Disciplina + precisión + comunicación emocional
 
 ✉️ mvictoriamb0425@gmail.com
-💼 [LinkedIn]([(https://www.linkedin.com/in/maria-victoria-maldonado-bao/])
+💼 [LinkedIn]([https://www.linkedin.com/in/maria-victoria-maldonado-bao/])
 🌐 Portfolio en construcción
 
