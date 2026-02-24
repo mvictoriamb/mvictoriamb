@@ -21,24 +21,31 @@ Voluntaria: Cruz Roja, INCIBE Cibercooperante, Cibervoluntarios
 
 ## 🛡️ **Proyectos Destacados**
 
-### 🔒 **GNS3 Enterprise Security Labs** ⭐
-**4 labs completos** | **20+ ataques simulados** | **Snort IDS + pfSense + OpenVPN**
-- SYN Flood → iptables rate limiting
-- ARP Spoofing → Snort detección real-time  
-- Port-Knocking 
-- Nmap stealth → Firewall hardening
+### 📅 SANA: Smart Assistant & Notification Agent ⭐
+**Generative AI** | **Python** | **Streamlit** | **Google Gemini** | **API Integration**
 
-[![GNS3 Labs](https://github-readme-stats.vercel.app/api/pin/?username=mvictoriamb&repo=gns3-security-labs-mvmb&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=FF6B6B)](https://github.com/mvictoriamb/gns3-security-labs-mvmb)
+- Optimización de Productividad: Asistente inteligente diseñado para la gestión eficiente de flujos de trabajo mediante el análisis de comunicaciones.
+- Procesamiento de Lenguaje Natural (LLM): Implementación de modelos avanzados para la lectura, categorización y resumen ejecutivo de correos electrónicos y eventos de calendario.
+- Automatización de Agenda: Extracción de puntos clave y generación de resúmenes accionables para mejorar la toma de decisiones y la gestión del tiempo.
 
+[![SANA Asistente](https://img.shields.io/badge/📅%20SANA-AI%20Assistant%20%7C%20Productivity-00D4AA?style=for-the-badge&logo=google-gemini&logoColor=white)](https://github.com/mvictoriamb/SANA_asistente)
 
-### 🤖 **Analizador Datos Estudiantes** ⭐
-**Streamlit + PandasAI + Gemini** | **Chat con CSV** | **Empleabilidad universitarios**
-- 💬 `"¿Qué carrera tiene más empleo?"`
-- 📈 Gráficos Plotly automáticos  
-- 🔍 Dataset de Kaggle 
-- 🧠 **No necesitas SQL/Pandas**
+### 📊 AI Data Explorer: Insight Engine ⭐
+**Streamlit + PandasAI + Gemini** | **LLM Integration** | **Data Analytics**
+
+- Democratización de Datos: Plataforma de Natural Language Querying (NLQ) que permite interactuar con datasets complejos mediante lenguaje natural, eliminando la barrera del SQL/Python.
+- Visualización Dinámica: Generación automatizada de dashboards interactivos y gráficos con Plotly basados en el contexto de la consulta.
+- Análisis de Empleabilidad: Aplicación práctica sobre datos de Kaggle para identificar tendencias en el mercado laboral universitario.
 
 [![Data Analyzer](https://img.shields.io/badge/🤖%20Data%20Analyzer-AI%20Chat%20%7C%20Streamlit-FF6B6B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mvictoriamb/analizador_datos_inteligente)
+
+### 🔒 **Infrastructure Security & Threat Mitigation Labs** ⭐
+**Network Security** | **Snort IDS + pfSense + OpenVPN**  | **Hardening**  | **Virtualización (GNS3)**
+- Simulación de Amenazas: Despliegue de entornos empresariales controlados para la detección y mitigación de ataques (SYN Flood, ARP Spoofing).
+- Defensa Activa: Configuración de Snort IDS para monitoreo en tiempo real y pfSense para el endurecimiento de perímetros de red.
+- Acceso Seguro: Implementación de protocolos de Port-Knocking y túneles OpenVPN para garantizar la integridad de infraestructuras críticas.
+
+[![GNS3 Labs](https://github-readme-stats.vercel.app/api/pin/?username=mvictoriamb&repo=gns3-security-labs-mvmb&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=FF6B6B)](https://github.com/mvictoriamb/gns3-security-labs-mvmb)
 
 
 ## 🏆 **Experiencia & Reconocimientos**
