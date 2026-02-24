@@ -52,15 +52,21 @@ Voluntaria: Cruz Roja, INCIBE Cibercooperante, Cibervoluntarios
 
 ✅ NVIDIA University Ambassador (Catedrático UMA):
 "Una de las estudiantes más excepcionales en 10 años"
+
 ✅ Google Cybersecurity Certificate (Coursera 2025)
+
 ✅ 6 Hackatones + CTFs (WomenHack incluido)
-✅ Charlas hacking ético desde los 17 años → Alumnos de FP 
-✅ 100h formación oratoria y emo-training → Charla TCA (15 años, 100+ personas)
+
+✅ Charlas de hacking ético desde los 17 años a alumnos de FP 
+
+✅ 100h formación oratoria y emotional training → Charla TCA (15 años, 100+ personas)
+
 
 Violín 🎻 | Piano 🎹 | Composición (mención conservatorio)
 → Disciplina + precisión + comunicación emocional
 
-✉️ mvictoriamb0425@gmail.com
-💼 [LinkedIn]([https://www.linkedin.com/in/maria-victoria-maldonado-bao/])
-🌐 Portfolio en construcción
-
+<p align="left">
+<a href="mailto:mvictoriamb0425@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/maria-victoria-maldonado-bao/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-En%20Construcción-orange?style=for-the-badge&logo=react&logoColor=white" /></a>
+</p>
