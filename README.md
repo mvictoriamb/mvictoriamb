@@ -28,7 +28,7 @@ Voluntaria: Cruz Roja, INCIBE Cibercooperante, Cibervoluntarios
 - Procesamiento de Lenguaje Natural (LLM): Implementación de modelos avanzados para la lectura, categorización y resumen ejecutivo de correos electrónicos y eventos de calendario.
 - Automatización de Agenda: Extracción de puntos clave y generación de resúmenes accionables para mejorar la toma de decisiones y la gestión del tiempo.
 
-[![SANA Asistente](https://img.shields.io/badge/📅%20SANA-AI%20Assistant%20%7C%20Productivity-00D4AA?style=for-the-badge&logo=google-gemini&logoColor=white)](https://github.com/mvictoriamb/SANA_asistente)
+[![SANA Asistente](https://img.shields.io/badge/📅%20SANA-AI%20Assistant%20%7C%20Productivity-4A90E2?style=for-the-badge&logo=google-gemini&logoColor=white)](https://github.com/mvictoriamb/SANA_asistente)
 
 ### 📊 AI Data Explorer: Insight Engine ⭐
 **Streamlit + PandasAI + Gemini** | **LLM Integration** | **Data Analytics**
@@ -45,7 +45,7 @@ Voluntaria: Cruz Roja, INCIBE Cibercooperante, Cibervoluntarios
 - Defensa Activa: Configuración de Snort IDS para monitoreo en tiempo real y pfSense para el endurecimiento de perímetros de red.
 - Acceso Seguro: Implementación de protocolos de Port-Knocking y túneles OpenVPN para garantizar la integridad de infraestructuras críticas.
 
-[![GNS3 Labs](https://github-readme-stats.vercel.app/api/pin/?username=mvictoriamb&repo=gns3-security-labs-mvmb&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=FF6B6B)](https://github.com/mvictoriamb/gns3-security-labs-mvmb)
+[![GNS3 Labs](https://img.shields.io/badge/🔒%20GNS3%20Labs-Network%20Security%20%7C%20Hardening-00D4AA?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/mvictoriamb/gns3-security-labs-mvmb)
 
 
 ## 🏆 **Experiencia & Reconocimientos**
