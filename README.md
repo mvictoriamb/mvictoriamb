@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy **María Victoria Maldonado Bao**
+# **María Victoria Maldonado Bao**
 ### 🛡️ **Ciberseguridad & IA** | 🎻 **Música profesional** | 🌏 **Trilingüe ES/EN/CN**
 
 [![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=flat&logo=google)](https://coursera.org)
@@ -9,17 +9,17 @@
 
 </div>
 
-## 🚀 **Sobre mí**
+## **Sobre mí**
 Estudiante 2º Grado Ciberseguridad e IA (UMA Málaga) →Graduación 2028
 
 Español nativo + Inglés C1 + Chino mandarín
 
 Violinista/pianista profesional (Conservatorio)
 
-Voluntaria: Cruz Roja, INCIBE Cibercooperante, Cibervoluntarios
+Voluntaria: Cruz Roja, INCIBE Cibercooperantes, Cibervoluntarios
 
 
-## 🛡️ **Proyectos Destacados**
+## **Proyectos Destacados**
 
 ### 📅 SANA: Smart Assistant & Notification Agent ⭐
 **Generative AI** | **Python** | **Streamlit** | **Google Gemini** | **API Integration**
@@ -53,17 +53,17 @@ Voluntaria: Cruz Roja, INCIBE Cibercooperante, Cibervoluntarios
 ✅ NVIDIA University Ambassador (Catedrático UMA):
 "Una de las estudiantes más excepcionales en 10 años"
 
-✅ Google Cybersecurity Certificate (Coursera 2025)
-
-✅ 6 Hackatones + CTFs (WomenHack incluido)
+✅ 6 Hackatones + CTFs 
 
 ✅ Charlas de hacking ético desde los 17 años a alumnos de FP 
 
 ✅ 100h formación oratoria y emotional training → Charla TCA (15 años, 100+ personas)
 
+✅ Subcampeona de España en Flamenco
+
 
 Violín 🎻 | Piano 🎹 | Composición (mención conservatorio)
-→ Disciplina + precisión + comunicación emocional
+→ Disciplina + precisión + creatividad
 
 <p align="left">
 <a href="mailto:mvictoriamb0425@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
