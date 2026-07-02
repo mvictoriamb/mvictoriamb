@@ -1,23 +1,4 @@
-<div align="center">
-
-# **María Victoria Maldonado Bao**
-### 🛡️ **Ciberseguridad & IA** | 🎻 **Música profesional** | 🌏 **Trilingüe ES/EN/CN**
-
-[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=flat&logo=google)](https://coursera.org)
-[![2º Google Init.g()](https://img.shields.io/badge/2º%20Google%20Init.g%20Prompt%20Injection-gold?style=flat&logo=trophy)](https://google.com)
-[![NVIDIA Recommended](https://img.shields.io/badge/NVIDIA%20University%20Ambassador%20Recommended-teal?style=flat&logo=nvidia)](https://nvidia.com)
-
-</div>
-
-## **Sobre mí**
-Estudiante 2º Grado Ciberseguridad e IA (UMA Málaga) →Graduación 2028
-
-Español nativo + Inglés C1 + Chino mandarín
-
-Violinista/pianista profesional (Conservatorio)
-
-Voluntaria: Cruz Roja, INCIBE Cibercooperantes, Cibervoluntarios
-
+Estudiante 3º Grado Ciberseguridad e IA
 
 ## **Proyectos Destacados**
 
@@ -47,23 +28,6 @@ Voluntaria: Cruz Roja, INCIBE Cibercooperantes, Cibervoluntarios
 
 [![GNS3 Labs](https://img.shields.io/badge/🔒%20GNS3%20Labs-Network%20Security%20%7C%20Hardening-00D4AA?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/mvictoriamb/gns3-security-labs-mvmb)
 
-
-## 🏆 **Experiencia & Reconocimientos**
-
-✅ NVIDIA University Ambassador (Catedrático UMA):
-"Una de las estudiantes más excepcionales en 10 años"
-
-✅ 6 Hackatones + CTFs 
-
-✅ Charlas de hacking ético desde los 17 años a alumnos de FP 
-
-✅ 100h formación oratoria y emotional training → Charla TCA (15 años, 100+ personas)
-
-✅ Subcampeona de España en Flamenco
-
-
-Violín 🎻 | Piano 🎹 | Composición (mención conservatorio)
-→ Disciplina + precisión + creatividad
 
 <p align="left">
 <a href="mailto:mvictoriamb0425@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
