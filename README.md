@@ -1,8 +1,8 @@
-Estudiante 3º Grado Ciberseguridad e IA
+Estudiante 3º Grado Ciberseguridad e IA.
 
-## **Proyectos Destacados**
+## *Proyectos Destacados*
 
-### 📅 SANA: Smart Assistant & Notification Agent ⭐
+## 📅 SANA: Smart Assistant & Notification Agent ⭐
 **Generative AI** | **Python** | **Streamlit** | **Google Gemini** | **API Integration**
 
 - Optimización de Productividad: Asistente inteligente diseñado para la gestión eficiente de flujos de trabajo mediante el análisis de comunicaciones.
@@ -11,7 +11,7 @@ Estudiante 3º Grado Ciberseguridad e IA
 
 [![SANA Asistente](https://img.shields.io/badge/📅%20SANA-AI%20Assistant%20%7C%20Productivity-4A90E2?style=for-the-badge&logo=google-gemini&logoColor=white)](https://github.com/mvictoriamb/SANA_asistente)
 
-### 📊 AI Data Explorer: Insight Engine ⭐
+## 📊 AI Data Explorer: Insight Engine ⭐
 **Streamlit + PandasAI + Gemini** | **LLM Integration** | **Data Analytics**
 
 - Democratización de Datos: Plataforma de Natural Language Querying (NLQ) que permite interactuar con datasets complejos mediante lenguaje natural, eliminando la barrera del SQL/Python.
@@ -20,7 +20,7 @@ Estudiante 3º Grado Ciberseguridad e IA
 
 [![Data Analyzer](https://img.shields.io/badge/🤖%20Data%20Analyzer-AI%20Chat%20%7C%20Streamlit-FF6B6B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mvictoriamb/analizador_datos_inteligente)
 
-### 🔒 **Infrastructure Security & Threat Mitigation Labs** ⭐
+## 🔒 **Infrastructure Security & Threat Mitigation Labs** ⭐
 **Network Security** | **Snort IDS + pfSense + OpenVPN**  | **Hardening**  | **Virtualización (GNS3)**
 - Simulación de Amenazas: Despliegue de entornos empresariales controlados para la detección y mitigación de ataques (SYN Flood, ARP Spoofing).
 - Defensa Activa: Configuración de Snort IDS para monitoreo en tiempo real y pfSense para el endurecimiento de perímetros de red.
