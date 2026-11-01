@@ -1,9 +1,7 @@
 # mvictoriamb
 **3rd-Year Cybersecurity & AI Undergraduate**
 
-I build Python projects in threat analysis, security automation and applied AI. My work spans asynchronous backend services, network security labs, machine learning and LLM integrations.
-
-**Focus:** Security Engineering · Threat Intelligence · Applied Machine Learning · AI-Assisted Investigation
+Security Engineering · Threat Intelligence · Applied Machine Learning · AI-Assisted Investigation
 
 [Email](mailto:mvictoriamb0425@gmail.com) · [Repositories](https://github.com/mvictoriamb?tab=repositories)
 
