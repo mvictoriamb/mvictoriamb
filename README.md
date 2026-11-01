@@ -5,7 +5,7 @@ Security Engineering · Threat Intelligence · Applied Machine Learning · AI-As
 
 [Email](mailto:mvictoriamb0425@gmail.com) · [Repositories](https://github.com/mvictoriamb?tab=repositories)
 
-## Cybersecurity and Security Engineering
+## 1. Cybersecurity and Security Engineering
 
 ### [Asynchronous Threat Analysis Engine](https://github.com/mvictoriamb/async-threat-analysis-engine)
 
@@ -27,7 +27,7 @@ Documented network security exercises covering attack simulation, monitoring and
 - Configures IDS monitoring, firewall rules, VPN access and port knocking.
 - Includes lab reports describing configurations and observed behaviour.
 
-## Security and Machine Learning in Development
+## 2. Security and Machine Learning in Development
 
 ### [AI Hybrid WAF and IPS](https://github.com/mvictoriamb/ai-hybrid-waf-ips)
 
@@ -47,7 +47,7 @@ An early-stage SecOps project focused on decision-time data integrity and constr
 - **Implemented milestone:** telemetry and investigation-episode data contracts, with validation tests.
 - **Planned work:** episode construction, calibrated ML prioritization, Vertex AI deployment and a bounded Gemini investigation agent with read-only tools and evidence-linked reports.
 
-## Applied AI and Data Tools
+## 3. Applied AI and Data Tools
 
 ### [SANA — Smart Assistant and Notification Agent](https://github.com/mvictoriamb/SANA_asistente)
 
@@ -68,7 +68,7 @@ A data exploration project combining conventional statistical analysis with natu
 - Includes a baseline analysis notebook and an AI-assisted query script.
 - Explores descriptive statistics, correlations and visualizations through Python and natural-language interaction.
 
-## Other Research
+## 4. Other Research
 
 ### [AML Biomarker Discovery and Bioelectric Simulation](https://github.com/mvictoriamb/AML-Bioelectric-CRISPRa-Simulation)
 
