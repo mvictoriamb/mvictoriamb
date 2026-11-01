@@ -1,45 +1,84 @@
-3rd-Year Cybersecurity & AI Undergraduate.
+**3rd-Year Cybersecurity & AI Undergraduate**
 
-## *Featured Projects*
+I build Python projects in threat analysis, security automation and applied AI. My work spans asynchronous backend services, network security labs, machine learning and LLM integrations.
 
-## Asynchronous Threat Analysis Engine
-**FastAPI + Celery + Redis** | **PostgreSQL + Docker** | **Threat Intelligence (VirusTotal API)** | **Streamlit**
+**Focus:** Security Engineering · Threat Intelligence · Applied Machine Learning · AI-Assisted Investigation
 
-- Distributed Architecture: Asynchronous microservices pipeline engineered to decouple high-latency network analysis from the API gateway using distributed task queues.
-- Threat Telemetry Ingestion: Automated integration with VirusTotal API v3 to evaluate Indicators of Compromise (IoCs), handling rate limits and aggregating multi-vendor security verdicts.
-- Persistent Audit Logging: Reliable storage of structured scan records and raw JSON telemetry in PostgreSQL, paired with a real-time interactive Streamlit dashboard for security analysts.
+[Email](mailto:mvictoriamb0425@gmail.com) · [Repositories](https://github.com/mvictoriamb?tab=repositories)
 
-[![Threat Engine](https://img.shields.io/badge/Threat%20Engine-Async%20Pipeline%20%7C%20SecOps-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/mvictoriamb/async-threat-analysis-engine)
+## Cybersecurity and Security Engineering
 
-## **Infrastructure Security & Threat Mitigation Labs**
-**Network Security** | **Snort IDS + pfSense + OpenVPN**  | **Hardening**  | **Virtualization (GNS3)**
-- Threat Simulation: Deployment of controlled enterprise environments for attack detection and mitigation (SYN Flood, ARP Spoofing).
-- Active Defense: Configuration of Snort IDS for real-time monitoring and pfSense for network perimeter hardening.
-- Secure Access: Implementation of Port-Knocking protocols and OpenVPN tunnels to ensure the integrity of critical infrastructures.
+### [Asynchronous Threat Analysis Engine](https://github.com/mvictoriamb/async-threat-analysis-engine)
 
-[![GNS3 Labs](https://img.shields.io/badge/GNS3%20Labs-Network%20Security%20%7C%20Hardening-00D4AA?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/mvictoriamb/gns3-security-labs-mvmb)
+**FastAPI · Celery · Redis · PostgreSQL · Docker · VirusTotal API · Streamlit**
 
-## SANA: Smart Assistant & Natural Advisor
-**Generative AI** | **Python** | **Streamlit** | **Google Gemini** | **API Integration**
+A threat-intelligence pipeline that processes domain analysis in background workers and presents results through an analyst dashboard.
 
-- Productivity Optimization: Intelligent assistant designed for efficient workflow management through communication analysis.
-- Natural Language Processing (LLM): Implementation of advanced models for reading, categorizing, and generating executive summaries of emails and calendar events.
-- Schedule Automation: Extraction of key takeaways and generation of actionable summaries to enhance decision-making and time management.
+- Separates API requests from external lookups using queued Celery tasks and Redis.
+- Combines VirusTotal verdicts with lexical domain heuristics, including entropy and character distribution.
+- Persists scan records and JSON telemetry in PostgreSQL for investigation and review.
 
-[![SANA Asistente](https://img.shields.io/badge/SANA-AI%20Assistant%20%7C%20Productivity-4A90E2?style=for-the-badge&logo=google-gemini&logoColor=white)](https://github.com/mvictoriamb/SANA_asistente)
+### [GNS3 Enterprise Security Labs](https://github.com/mvictoriamb/gns3-security-labs-mvmb)
 
-## AI Data Explorer: Insight Engine 
-**Streamlit + PandasAI + Gemini** | **LLM Integration** | **Data Analytics**
+**GNS3 · Snort IDS · pfSense · OpenVPN · Linux iptables · Nmap**
 
-- Data Democratization: Natural Language Querying (NLQ) platform that enables interaction with complex datasets using natural language, removing the SQL/Python barrier.
-- Dynamic Visualization: Automated generation of interactive dashboards and Plotly charts based on query context.
-- Employability Analysis: Practical application on Kaggle datasets to identify trends in the university job market.
+Documented network security exercises covering attack simulation, monitoring and defensive configuration in controlled virtual environments.
 
-[![Data Analyzer](https://img.shields.io/badge/Data%20Analyzer-AI%20Chat%20%7C%20Streamlit-FF6B6B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mvictoriamb/analizador_datos_inteligente)
+- Investigates SYN floods, ARP spoofing, brute-force attempts and network reconnaissance.
+- Configures IDS monitoring, firewall rules, VPN access and port knocking.
+- Includes lab reports describing configurations and observed behaviour.
 
+## Security and Machine Learning in Development
 
-<p align="left">
-<a href="mailto:mvictoriamb0425@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/maria-victoria-maldonado-bao/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Under%20Construction-orange?style=for-the-badge&logo=react&logoColor=white" /></a>
-</p>
+### [AI Hybrid WAF and IPS](https://github.com/mvictoriamb/ai-hybrid-waf-ips)
+
+**Python · scikit-learn · Random Forest · CIC-IDS2017**
+
+A project exploring machine-learning-based traffic classification and its integration with defensive tooling for small business environments.
+
+- **Implemented milestone:** data preparation and Random Forest training on CIC-IDS2017.
+- **Planned integration:** Scapy traffic capture, Linux firewall mitigation, a Flask honeypot and local LLM incident summaries through Ollama.
+
+### [Sentinel — Security Triage and Investigation](https://github.com/mvictoriamb/sentinel-vertex-secops)
+
+**Python · Pydantic · Security Telemetry · Planned Vertex AI and Gemini Integration**
+
+An early-stage SecOps project focused on decision-time data integrity and constrained AI-assisted investigation of Windows endpoint alerts.
+
+- **Implemented milestone:** telemetry and investigation-episode data contracts, with validation tests.
+- **Planned work:** episode construction, calibrated ML prioritization, Vertex AI deployment and a bounded Gemini investigation agent with read-only tools and evidence-linked reports.
+
+## Applied AI and Data Tools
+
+### [SANA — Smart Assistant and Notification Agent](https://github.com/mvictoriamb/SANA_asistente)
+
+**Python · Google Gemini · Gmail API · Google Calendar API · OAuth 2.0 · Speech Recognition · Edge TTS**
+
+A voice-oriented assistant for reviewing email and calendar information across connected accounts.
+
+- Summarizes email threads and retrieves upcoming calendar events.
+- Integrates speech recognition and text-to-speech with Google API services.
+- Uses OAuth 2.0 for account authorization.
+
+### [AI Data Explorer](https://github.com/mvictoriamb/analizador_datos_inteligente)
+
+**Python · pandas · PandasAI · OpenAI · Matplotlib · Seaborn**
+
+A data exploration project combining conventional statistical analysis with natural-language queries over a student employability dataset.
+
+- Includes a baseline analysis notebook and an AI-assisted query script.
+- Explores descriptive statistics, correlations and visualizations through Python and natural-language interaction.
+
+## Other Research
+
+### [AML Biomarker Discovery and Bioelectric Simulation](https://github.com/mvictoriamb/AML-Bioelectric-CRISPRa-Simulation)
+
+**Python · TensorFlow/Keras · Statistical Analysis · RNA-seq · PhysiCell/C++**
+
+An interdisciplinary research project combining expression-based biomarker exploration, a classification workflow and hypothetical cellular simulations.
+
+- Includes external CREB5–KCNJ15 coexpression replication in TCGA-LAML and Beat AML, with analysis scripts and source provenance.
+- Provides recovered PhysiCell settings and a documented C++ reconstruction.
+- Separates association findings from predictive model validation and therapeutic claims.
+
+[External RNA-seq analysis and reproducibility](https://github.com/mvictoriamb/AML-Bioelectric-CRISPRa-Simulation/tree/main/validation/external_rnaseq)
