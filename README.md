@@ -60,15 +60,6 @@ A voice-oriented assistant for reviewing email and calendar information across c
 - Integrates speech recognition and text-to-speech with Google API services.
 - Uses OAuth 2.0 for account authorization.
 
-### [AI Data Explorer](https://github.com/mvictoriamb/analizador_datos_inteligente)
-
-**Python · pandas · PandasAI · OpenAI · Matplotlib · Seaborn**
-
-A data exploration project combining conventional statistical analysis with natural-language queries over a student employability dataset.
-
-- Includes a baseline analysis notebook and an AI-assisted query script.
-- Explores descriptive statistics, correlations and visualizations through Python and natural-language interaction.
-
 ## 4. Other Research
 
 ### [AML Biomarker Discovery and Bioelectric Simulation](https://github.com/mvictoriamb/AML-Bioelectric-CRISPRa-Simulation)
