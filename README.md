@@ -1,4 +1,4 @@
-# MVMB
+# mvictoriamb
 **3rd-Year Cybersecurity & AI Undergraduate**
 
 I build Python projects in threat analysis, security automation and applied AI. My work spans asynchronous backend services, network security labs, machine learning and LLM integrations.
