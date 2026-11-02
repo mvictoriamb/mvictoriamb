@@ -30,15 +30,6 @@ Documented network security exercises covering attack simulation, monitoring and
 
 ## 2. Security and Machine Learning in Development
 
-### [AI Hybrid WAF and IPS](https://github.com/mvictoriamb/ai-hybrid-waf-ips)
-
-**Python · scikit-learn · Random Forest · CIC-IDS2017**
-
-A project exploring machine-learning-based traffic classification and its integration with defensive tooling for small business environments.
-
-- **Implemented milestone:** data preparation and Random Forest training on CIC-IDS2017.
-- **Planned integration:** Scapy traffic capture, Linux firewall mitigation, a Flask honeypot and local LLM incident summaries through Ollama.
-
 ### [Sentinel — Security Triage and Investigation](https://github.com/mvictoriamb/sentinel-vertex-secops)
 
 **Python · Pydantic · Security Telemetry · Planned Vertex AI and Gemini Integration**
