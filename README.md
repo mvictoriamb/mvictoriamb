@@ -2,7 +2,7 @@
 
 **3rd-Year Cybersecurity & AI Undergraduate**
 
-Security Engineering · Threat Intelligence · Applied Machine Learning · AI-Assisted Investigation
+Security Engineering · AI/ML Engineering · Threat Detection · Secure AI
 
 [Email](mailto:mvictoriamb0425@gmail.com) · [Repositories](https://github.com/mvictoriamb?tab=repositories)
 
